@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1>Lear@Home</h1>
+  <h1>Learn@Home</h1>
   <a href="https://github.com/Erik-42">
     <img src="./assets/logo/learnhomeLogo.png" alt="Logo Learn@Home" width="200" height="100">
   </a>

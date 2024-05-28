@@ -1,0 +1,5031 @@
+{
+  "id": "665560550e056551c5bb0022",
+  "nodeId": "ari:cloud:trello::board/workspace/639c81aabb21ab042c61aa62/665560550e056551c5bb0022",
+  "name": "Learn@Home",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "dateClosed": null,
+  "idOrganization": "639c81aabb21ab042c61aa62",
+  "idEnterprise": null,
+  "limits": {
+    "attachments": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 36000,
+        "warnAt": 28800
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "boards": {
+      "totalMembersPerBoard": {
+        "status": "ok",
+        "disableAt": 1600,
+        "warnAt": 1280
+      },
+      "totalAccessRequestsPerBoard": {
+        "status": "ok",
+        "disableAt": 4000,
+        "warnAt": 3200
+      }
+    },
+    "cards": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4000
+      },
+      "openPerList": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4000
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1600000
+      },
+      "totalPerList": {
+        "status": "ok",
+        "disableAt": 1000000,
+        "warnAt": 800000
+      }
+    },
+    "checklists": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1800000,
+        "warnAt": 1440000
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "checkItems": {
+      "perChecklist": {
+        "status": "ok",
+        "disableAt": 200,
+        "warnAt": 160
+      }
+    },
+    "customFields": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 40
+      }
+    },
+    "customFieldOptions": {
+      "perField": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 40
+      }
+    },
+    "labels": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "lists": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 3000,
+        "warnAt": 2400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    },
+    "reactions": {
+      "perAction": {
+        "status": "ok",
+        "disableAt": 900,
+        "warnAt": 720
+      },
+      "uniquePerAction": {
+        "status": "ok",
+        "disableAt": 17,
+        "warnAt": 14
+      }
+    }
+  },
+  "pinned": false,
+  "starred": false,
+  "url": "https://trello.com/b/3UZpDmYT/learnhome",
+  "prefs": {
+    "permissionLevel": "public",
+    "hideVotes": false,
+    "voting": "disabled",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": true,
+    "cardCovers": true,
+    "cardCounts": false,
+    "isTemplate": false,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "hiddenPluginBoardButtons": [],
+    "switcherViews": [
+      {
+        "viewType": "Board",
+        "enabled": true
+      },
+      {
+        "viewType": "Table",
+        "enabled": true
+      },
+      {
+        "viewType": "Calendar",
+        "enabled": false
+      },
+      {
+        "viewType": "Dashboard",
+        "enabled": false
+      },
+      {
+        "viewType": "Timeline",
+        "enabled": false
+      },
+      {
+        "viewType": "Map",
+        "enabled": false
+      }
+    ],
+    "background": "665552e28f650b9cac85630a",
+    "backgroundColor": null,
+    "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/ea8d9b631b4268c2b741b8d47b0978fc/photo-1715967142234-547de15379c7",
+    "backgroundTile": false,
+    "backgroundBrightness": "light",
+    "sharedSourceUrl": "https://images.unsplash.com/photo-1715967142234-547de15379c7?ixid=M3w3MDY2fDB8MXxjb2xsZWN0aW9ufDN8MzE3MDk5fHx8fHwyfHwxNzE2ODY3NDkzfA&ixlib=rb-4.0.3&w=2560&h=2048&q=90",
+    "backgroundImageScaled": [
+      {
+        "width": 75,
+        "height": 100,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/75x100/f0009f7129f30e4e58d50d33199f6e4d/photo-1715967142234-547de15379c7.webp"
+      },
+      {
+        "width": 144,
+        "height": 192,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/144x192/f0009f7129f30e4e58d50d33199f6e4d/photo-1715967142234-547de15379c7.webp"
+      },
+      {
+        "width": 360,
+        "height": 480,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/360x480/f0009f7129f30e4e58d50d33199f6e4d/photo-1715967142234-547de15379c7.webp"
+      },
+      {
+        "width": 720,
+        "height": 960,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/720x960/f0009f7129f30e4e58d50d33199f6e4d/photo-1715967142234-547de15379c7.webp"
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/768x1024/f0009f7129f30e4e58d50d33199f6e4d/photo-1715967142234-547de15379c7.webp"
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x1280/f0009f7129f30e4e58d50d33199f6e4d/photo-1715967142234-547de15379c7.webp"
+      },
+      {
+        "width": 1200,
+        "height": 1600,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1200x1600/f0009f7129f30e4e58d50d33199f6e4d/photo-1715967142234-547de15379c7.webp"
+      },
+      {
+        "width": 1440,
+        "height": 1920,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1440x1920/f0009f7129f30e4e58d50d33199f6e4d/photo-1715967142234-547de15379c7.webp"
+      },
+      {
+        "width": 1536,
+        "height": 2048,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1536x2048/f0009f7129f30e4e58d50d33199f6e4d/photo-1715967142234-547de15379c7.webp"
+      }
+    ],
+    "backgroundBottomColor": "#969494",
+    "backgroundTopColor": "#c7c2c0",
+    "canBePublic": true,
+    "canBeEnterprise": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "shortLink": "3UZpDmYT",
+  "subscribed": false,
+  "labelNames": {
+    "green": "",
+    "yellow": "",
+    "orange": "",
+    "red": "",
+    "purple": "",
+    "blue": "",
+    "sky": "",
+    "lime": "",
+    "pink": "",
+    "black": "",
+    "green_dark": "",
+    "yellow_dark": "",
+    "orange_dark": "",
+    "red_dark": "",
+    "purple_dark": "",
+    "blue_dark": "",
+    "sky_dark": "",
+    "lime_dark": "",
+    "pink_dark": "",
+    "black_dark": "",
+    "green_light": "",
+    "yellow_light": "",
+    "orange_light": "",
+    "red_light": "",
+    "purple_light": "",
+    "blue_light": "",
+    "sky_light": "",
+    "lime_light": "",
+    "pink_light": "",
+    "black_light": ""
+  },
+  "powerUps": [],
+  "dateLastActivity": "2024-05-28T04:51:30.426Z",
+  "dateLastView": "2024-05-28T04:53:59.506Z",
+  "shortUrl": "https://trello.com/b/3UZpDmYT",
+  "idTags": [],
+  "datePluginDisable": null,
+  "creationMethod": null,
+  "ixUpdate": "97",
+  "templateGallery": null,
+  "enterpriseOwned": false,
+  "idBoardSource": null,
+  "premiumFeatures": [
+    "additionalBoardBackgrounds",
+    "additionalStickers",
+    "customBoardBackgrounds",
+    "customEmoji",
+    "customStickers",
+    "plugins"
+  ],
+  "idMemberCreator": "639c81564b32cc01b73af3c5",
+  "actions": [
+    {
+      "id": "665562d227fc660ab7467bb9",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665561aa012f0bf74547a2c2",
+          "idShort": 20,
+          "shortLink": "3pX0oCmd"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "deleteCard",
+      "date": "2024-05-28T04:51:30.567Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "6655629aea4de34fc062c5ed",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "name": "Us n°1 créer tache",
+          "id": "665561adc9e8d77dc223905d",
+          "idShort": 21,
+          "shortLink": "sb1rlDiZ"
+        },
+        "old": {
+          "name": "créer tache"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:50:34.791Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "6655629695d97b010bdafa91",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "dateViewedByCreator": "2024-05-28T04:53:48.093Z",
+          "id": "665561adc9e8d77dc223905d",
+          "name": "créer tache",
+          "idShort": 21,
+          "shortLink": "sb1rlDiZ"
+        },
+        "old": {
+          "dateViewedByCreator": null
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:50:30.569Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556282b6827aaaed9a78a2",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "old": {
+          "cover": {
+            "color": null,
+            "idAttachment": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "dark",
+            "plugin": null
+          }
+        },
+        "card": {
+          "cover": {
+            "color": "red",
+            "idAttachment": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light",
+            "plugin": null
+          },
+          "id": "6655617ce589ad410d5bcb68",
+          "name": "Page taches",
+          "idShort": 15,
+          "shortLink": "cc8MwEDm"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:50:10.864Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665562789172a01f20284d40",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "old": {
+          "cover": {
+            "color": null,
+            "idAttachment": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "dark",
+            "plugin": null
+          }
+        },
+        "card": {
+          "cover": {
+            "color": "orange",
+            "idAttachment": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light",
+            "plugin": null
+          },
+          "id": "66556133546872ccda49986d",
+          "name": "Page calendrier",
+          "idShort": 10,
+          "shortLink": "UzFHvXRS"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:50:00.121Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665562733da0946d9f146338",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "name": "Us n°1 Supprimer message",
+          "id": "66556124a10c901a4f24cd65",
+          "idShort": 9,
+          "shortLink": "5LQpS56l"
+        },
+        "old": {
+          "name": "Supprimer message"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:49:55.069Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "6655626da3aa5264645b444e",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "dateViewedByCreator": "2024-05-28T04:53:07.009Z",
+          "id": "66556124a10c901a4f24cd65",
+          "name": "Supprimer message",
+          "idShort": 9,
+          "shortLink": "5LQpS56l"
+        },
+        "old": {
+          "dateViewedByCreator": null
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:49:49.591Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556267656a73406a859bea",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "old": {
+          "cover": {
+            "color": null,
+            "idAttachment": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "dark",
+            "plugin": null
+          }
+        },
+        "card": {
+          "cover": {
+            "color": "yellow",
+            "idAttachment": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light",
+            "plugin": null
+          },
+          "id": "665560fafc139c868391f708",
+          "name": "Page de chat",
+          "idShort": 5,
+          "shortLink": "C62pYujh"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:49:43.739Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "6655625eada1a5435cf021f6",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "old": {
+          "cover": {
+            "color": null,
+            "idAttachment": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "dark",
+            "plugin": null
+          }
+        },
+        "card": {
+          "cover": {
+            "color": "green",
+            "idAttachment": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light",
+            "plugin": null
+          },
+          "id": "665560a6ef3c9cd69cd1cdac",
+          "name": "Page de connexion",
+          "idShort": 1,
+          "shortLink": "88Ktnf3B"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:49:34.736Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556227c2988a3e9a7b6c59",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "dateViewedByCreator": "2024-05-28T04:51:57.417Z",
+          "id": "665561a75ec18f1eb998d6d2",
+          "name": "Us n°1 supprimer liste de taches",
+          "idShort": 19,
+          "shortLink": "9134TLM0"
+        },
+        "old": {
+          "dateViewedByCreator": null
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:48:39.959Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556203002e2692bbab7359",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "66556203002e2692bbab7350",
+          "name": "Us n°1 supprimer tache mentor",
+          "idShort": 26,
+          "shortLink": "uLBRlCXb"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:48:03.313Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665561f8a42fea2393882afe",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665561f8a42fea2393882ae8",
+          "name": "Us n°1 Modifier tache mentor",
+          "idShort": 25,
+          "shortLink": "6znmtOZP"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:47:52.051Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665561ed56e709569fb103d6",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665561ed56e709569fb103cd",
+          "name": "Us n°1 créer tache mentor",
+          "idShort": 24,
+          "shortLink": "68wfahvY"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:47:41.630Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665561c5268bf86f7fea09a5",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665561c5268bf86f7fea099c",
+          "name": "Us n°1 supprimer tache",
+          "idShort": 23,
+          "shortLink": "3msGzgbs"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:47:01.955Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665561b629fa815d7a5202ff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665561b629fa815d7a5202f6",
+          "name": "Us n°1 Modifier tache",
+          "idShort": 22,
+          "shortLink": "N3IpaV0o"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:46:46.047Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665561adc9e8d77dc2239066",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665561adc9e8d77dc223905d",
+          "name": "créer tache",
+          "idShort": 21,
+          "shortLink": "sb1rlDiZ"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:46:37.289Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665561a75ec18f1eb998d6db",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665561a75ec18f1eb998d6d2",
+          "name": "Us n°1 supprimer liste de taches",
+          "idShort": 19,
+          "shortLink": "9134TLM0"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:46:31.794Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "6655619bb5d89cf10262da09",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "6655619bb5d89cf10262d9e9",
+          "name": "Us n°1Modifier liste de tache",
+          "idShort": 18,
+          "shortLink": "WSGigtZ4"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:46:19.301Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "6655618f698e690d7b7ef08b",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "6655618f698e690d7b7ef080",
+          "name": "Us n°1 créer liste de taches",
+          "idShort": 17,
+          "shortLink": "fMJczTv7"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:46:07.605Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556185060fb335482f8a1a",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "66556185060fb335482f8a11",
+          "name": "Us n°1 Consulter tache",
+          "idShort": 16,
+          "shortLink": "wMmICUmd"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:45:57.400Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "6655617ce589ad410d5bcbf3",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "6655617ce589ad410d5bcb68",
+          "name": "Page taches",
+          "idShort": 15,
+          "shortLink": "cc8MwEDm"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:45:48.203Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665561633c352abbe78132b6",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665561633c352abbe78132ad",
+          "name": "Us n°1 Supprimer événement",
+          "idShort": 14,
+          "shortLink": "dmRuQDO4"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:45:23.439Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556159f50923f09236a36b",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "66556159f50923f09236a362",
+          "name": "Us n°1 Modifier événement",
+          "idShort": 13,
+          "shortLink": "sCnT8hv0"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:45:13.898Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556150341538bc5e51738b",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "66556150341538bc5e517382",
+          "name": "Us n°1 Créer événement",
+          "idShort": 12,
+          "shortLink": "J5hYijhj"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:45:04.407Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556140892a08817e57eff9",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "66556140892a08817e57eff0",
+          "name": "Us n°1 Ouvrir calendrier",
+          "idShort": 11,
+          "shortLink": "2L4SLKA7"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:44:48.328Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556133546872ccda499876",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "66556133546872ccda49986d",
+          "name": "Page calendrier",
+          "idShort": 10,
+          "shortLink": "UzFHvXRS"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:44:35.470Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556124a10c901a4f24cd6e",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "66556124a10c901a4f24cd65",
+          "name": "Supprimer message",
+          "idShort": 9,
+          "shortLink": "5LQpS56l"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:44:20.463Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "6655611d86ebcb7f859291fd",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "6655611d86ebcb7f859291f4",
+          "name": "Us n°1Envoyer message",
+          "idShort": 8,
+          "shortLink": "EYkG5peg"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:44:13.858Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556115811c336a7e5e4629",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "66556115811c336a7e5e45c6",
+          "name": "Us n°1 Supprimer contact",
+          "idShort": 7,
+          "shortLink": "8Vvk948p"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:44:05.572Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556106ac4409f4f02e7e02",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "66556106ac4409f4f02e7df7",
+          "name": "Us n°1 Ajouter contact",
+          "idShort": 6,
+          "shortLink": "1BHwmY7j"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:43:50.870Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560fafc139c868391f7c1",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665560fafc139c868391f708",
+          "name": "Page de chat",
+          "idShort": 5,
+          "shortLink": "C62pYujh"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:43:38.970Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560eb7e813b1421ac3a01",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "name": "Us n°3 Mot de passe oublié",
+          "id": "665560cd9829097b04046d36",
+          "idShort": 4,
+          "shortLink": "SuxnZaV2"
+        },
+        "old": {
+          "name": "Connexion"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:43:23.455Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560dcc623a016e41df1ed",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "dateViewedByCreator": "2024-05-28T04:46:25.533Z",
+          "id": "665560cd9829097b04046d36",
+          "name": "Connexion",
+          "idShort": 4,
+          "shortLink": "SuxnZaV2"
+        },
+        "old": {
+          "dateViewedByCreator": null
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:43:08.014Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560dad2211e453af84624",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "name": "Us n°2 Connexion",
+          "id": "665560c8a9b9bcfb5b80656c",
+          "idShort": 3,
+          "shortLink": "78elU5mu"
+        },
+        "old": {
+          "name": "Us n°2"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:43:06.196Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560cd100eb0ba69af9984",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "dateViewedByCreator": "2024-05-28T04:46:11.326Z",
+          "id": "665560c8a9b9bcfb5b80656c",
+          "name": "Us n°2",
+          "idShort": 3,
+          "shortLink": "78elU5mu"
+        },
+        "old": {
+          "dateViewedByCreator": null
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-05-28T04:42:53.847Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560cd9829097b04046d45",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665560cd9829097b04046d36",
+          "name": "Connexion",
+          "idShort": 4,
+          "shortLink": "SuxnZaV2"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:42:53.137Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560c8a9b9bcfb5b806575",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665560c8a9b9bcfb5b80656c",
+          "name": "Us n°2",
+          "idShort": 3,
+          "shortLink": "78elU5mu"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:42:48.086Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560c2a35246eebe6e8e94",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665560c2a35246eebe6e8e86",
+          "name": "Us n°1 Création de compte",
+          "idShort": 2,
+          "shortLink": "2R2Ruo76"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:42:42.791Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560a6ef3c9cd69cd1cdb5",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "card": {
+          "id": "665560a6ef3c9cd69cd1cdac",
+          "name": "Page de connexion",
+          "idShort": 1,
+          "shortLink": "88Ktnf3B"
+        },
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-05-28T04:42:14.969Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "66556092d0526a850dd68d79",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "list": {
+          "id": "66556092d0526a850dd68d75",
+          "name": "Done"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2024-05-28T04:41:54.498Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560900ff8cbe6c00428b4",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "list": {
+          "id": "665560900ff8cbe6c00428b0",
+          "name": "Test"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2024-05-28T04:41:52.643Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "6655608eac4409f4f02d9e38",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "list": {
+          "id": "6655608eac4409f4f02d9e34",
+          "name": "Develop"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2024-05-28T04:41:50.126Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "6655608ae30b5be67bf93d05",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "list": {
+          "id": "6655608ae30b5be67bf93cff",
+          "name": "Analyze"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2024-05-28T04:41:46.313Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560831876d61d9dfff5a9",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "list": {
+          "id": "665560831876d61d9dfff5a5",
+          "name": "Backlog"
+        },
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2024-05-28T04:41:39.803Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560550e056551c5bb0066",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        },
+        "organization": {
+          "id": "639c81aabb21ab042c61aa62",
+          "name": "Formation developpeur web"
+        }
+      },
+      "appCreator": null,
+      "type": "addToOrganizationBoard",
+      "date": "2024-05-28T04:40:53.574Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    },
+    {
+      "id": "665560550e056551c5bb0063",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "data": {
+        "board": {
+          "id": "665560550e056551c5bb0022",
+          "name": "Learn@Home",
+          "shortLink": "3UZpDmYT"
+        }
+      },
+      "appCreator": null,
+      "type": "createBoard",
+      "date": "2024-05-28T04:40:53.569Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "639c81564b32cc01b73af3c5",
+        "activityBlocked": false,
+        "avatarHash": "8850275376b908c46d25d14383c3e965",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+        "fullName": "Erik Mesen",
+        "idMemberReferrer": null,
+        "initials": "EM",
+        "nonPublic": {
+          "fullName": "Erik Mesen",
+          "initials": "EM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "erikmesen"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "id": "665560a6ef3c9cd69cd1cdac",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:49:34.745Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jecsditvb13ervhkc+0srleyuws6@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 1,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": true,
+      "name": "Page de connexion",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665560a6ef3c9cd69cd1cdac",
+      "pos": 65536,
+      "shortLink": "88Ktnf3B",
+      "shortUrl": "https://trello.com/c/88Ktnf3B",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/88Ktnf3B/1-page-de-connexion",
+      "cover": {
+        "idAttachment": null,
+        "color": "green",
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "665560c2a35246eebe6e8e86",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:42:42.770Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jecvddgljqedz9lza+1ma67h76rn@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 2,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 Création de compte",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665560c2a35246eebe6e8e86",
+      "pos": 131072,
+      "shortLink": "2R2Ruo76",
+      "shortUrl": "https://trello.com/c/2R2Ruo76",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/2R2Ruo76/2-us-n1-cr%C3%A9ation-de-compte",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "665560c8a9b9bcfb5b80656c",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:43:06.154Z",
+      "dateViewedByCreator": "2024-05-28T04:46:11.326Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jecw0tv5ieqrloygc+2bs3wfpwow@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 3,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°2 Connexion",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665560c8a9b9bcfb5b80656c",
+      "pos": 196608,
+      "shortLink": "78elU5mu",
+      "shortUrl": "https://trello.com/c/78elU5mu",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/78elU5mu/3-us-n2-connexion",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "665560cd9829097b04046d36",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:43:23.435Z",
+      "dateViewedByCreator": "2024-05-28T04:46:25.533Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jecwk0zwz7mvm6gxi+2j6r53jhxc@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 4,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°3 Mot de passe oublié",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665560cd9829097b04046d36",
+      "pos": 262144,
+      "shortLink": "SuxnZaV2",
+      "shortUrl": "https://trello.com/c/SuxnZaV2",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/SuxnZaV2/4-us-n3-mot-de-passe-oubli%C3%A9",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "665560fafc139c868391f708",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:49:43.748Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jed1gqfnoc1cdwd1k+1ethqomh0j@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 5,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": true,
+      "name": "Page de chat",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665560fafc139c868391f708",
+      "pos": 327680,
+      "shortLink": "C62pYujh",
+      "shortUrl": "https://trello.com/c/C62pYujh",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/C62pYujh/5-page-de-chat",
+      "cover": {
+        "idAttachment": null,
+        "color": "yellow",
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "66556106ac4409f4f02e7df7",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:43:50.846Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jed2q8jdlp0i2kauv+2bqvgjcyen@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 6,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 Ajouter contact",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/66556106ac4409f4f02e7df7",
+      "pos": 393216,
+      "shortLink": "1BHwmY7j",
+      "shortUrl": "https://trello.com/c/1BHwmY7j",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/1BHwmY7j/6-us-n1-ajouter-contact",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "66556115811c336a7e5e45c6",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:44:05.550Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jed4bz5os1o3c9wp2+22wkmbdfj8@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 7,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 Supprimer contact",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/66556115811c336a7e5e45c6",
+      "pos": 458752,
+      "shortLink": "8Vvk948p",
+      "shortUrl": "https://trello.com/c/8Vvk948p",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/8Vvk948p/7-us-n1-supprimer-contact",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6655611d86ebcb7f859291f4",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:44:13.838Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jed577jbwbalcmqyc+1nbpwl850q@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 8,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1Envoyer message",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/6655611d86ebcb7f859291f4",
+      "pos": 524288,
+      "shortLink": "EYkG5peg",
+      "shortUrl": "https://trello.com/c/EYkG5peg",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/EYkG5peg/8-us-n1envoyer-message",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "66556124a10c901a4f24cd65",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:49:55.052Z",
+      "dateViewedByCreator": "2024-05-28T04:53:07.009Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jed5yuw04cj7hzqed+1zi9p39i56@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 9,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 Supprimer message",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/66556124a10c901a4f24cd65",
+      "pos": 589824,
+      "shortLink": "5LQpS56l",
+      "shortUrl": "https://trello.com/c/5LQpS56l",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/5LQpS56l/9-us-n1-supprimer-message",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "66556133546872ccda49986d",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:50:00.135Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jed7k36d3nuctmjcd+08lrp2kjwm@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 10,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": true,
+      "name": "Page calendrier",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/66556133546872ccda49986d",
+      "pos": 655360,
+      "shortLink": "UzFHvXRS",
+      "shortUrl": "https://trello.com/c/UzFHvXRS",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/UzFHvXRS/10-page-calendrier",
+      "cover": {
+        "idAttachment": null,
+        "color": "orange",
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "66556140892a08817e57eff0",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:44:48.311Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jed8zi06epqacxv5c+1ez6rton5p@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 11,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 Ouvrir calendrier",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/66556140892a08817e57eff0",
+      "pos": 720896,
+      "shortLink": "2L4SLKA7",
+      "shortUrl": "https://trello.com/c/2L4SLKA7",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/2L4SLKA7/11-us-n1-ouvrir-calendrier",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "66556150341538bc5e517382",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:45:04.390Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedaohtl0gwpe9bb6+2bsdec64pm@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 12,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 Créer événement",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/66556150341538bc5e517382",
+      "pos": 786432,
+      "shortLink": "J5hYijhj",
+      "shortUrl": "https://trello.com/c/J5hYijhj",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/J5hYijhj/12-us-n1-cr%C3%A9er-%C3%A9v%C3%A9nement",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "66556159f50923f09236a362",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:45:13.879Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedbqgswte4grx8bm+15jt7hwduu@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 13,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 Modifier événement",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/66556159f50923f09236a362",
+      "pos": 851968,
+      "shortLink": "sCnT8hv0",
+      "shortUrl": "https://trello.com/c/sCnT8hv0",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/sCnT8hv0/13-us-n1-modifier-%C3%A9v%C3%A9nement",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "665561633c352abbe78132ad",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:45:23.421Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedcql445n1etzd7x+0maxcy7f6k@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 14,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 Supprimer événement",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665561633c352abbe78132ad",
+      "pos": 917504,
+      "shortLink": "dmRuQDO4",
+      "shortUrl": "https://trello.com/c/dmRuQDO4",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/dmRuQDO4/14-us-n1-supprimer-%C3%A9v%C3%A9nement",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6655617ce589ad410d5bcb68",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:50:10.876Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedfihk3xiokyc2ug+2i6kl5rg0u@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 15,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": true,
+      "name": "Page taches",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/6655617ce589ad410d5bcb68",
+      "pos": 983040,
+      "shortLink": "cc8MwEDm",
+      "shortUrl": "https://trello.com/c/cc8MwEDm",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/cc8MwEDm/15-page-taches",
+      "cover": {
+        "idAttachment": null,
+        "color": "red",
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "66556185060fb335482f8a11",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:45:57.377Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedge4k7uzrwyms5t+2pyd1mryvd@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 16,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 Consulter tache",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/66556185060fb335482f8a11",
+      "pos": 1048576,
+      "shortLink": "wMmICUmd",
+      "shortUrl": "https://trello.com/c/wMmICUmd",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/wMmICUmd/16-us-n1-consulter-tache",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6655618f698e690d7b7ef080",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:46:07.584Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedhikj0lzvj9ra0w+0ltehq88rq@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 17,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 créer liste de taches",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/6655618f698e690d7b7ef080",
+      "pos": 1114112,
+      "shortLink": "fMJczTv7",
+      "shortUrl": "https://trello.com/c/fMJczTv7",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/fMJczTv7/17-us-n1-cr%C3%A9er-liste-de-taches",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6655619bb5d89cf10262d9e9",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:46:19.277Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jediug397kjr30oa1+0zif1vxgtu@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 18,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1Modifier liste de tache",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/6655619bb5d89cf10262d9e9",
+      "pos": 1179648,
+      "shortLink": "WSGigtZ4",
+      "shortUrl": "https://trello.com/c/WSGigtZ4",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/WSGigtZ4/18-us-n1modifier-liste-de-tache",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "665561a75ec18f1eb998d6d2",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:48:39.938Z",
+      "dateViewedByCreator": "2024-05-28T04:51:57.417Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedk3u7igwjq3z9oy+0l7aygs4fz@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 19,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 supprimer liste de taches",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665561a75ec18f1eb998d6d2",
+      "pos": 1245184,
+      "shortLink": "9134TLM0",
+      "shortUrl": "https://trello.com/c/9134TLM0",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/9134TLM0/19-us-n1-supprimer-liste-de-taches",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "665561adc9e8d77dc223905d",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:50:34.772Z",
+      "dateViewedByCreator": "2024-05-28T04:53:48.093Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedkstrov0o646lwd+2bn4xb4ehv@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 21,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 créer tache",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665561adc9e8d77dc223905d",
+      "pos": 1376256,
+      "shortLink": "sb1rlDiZ",
+      "shortUrl": "https://trello.com/c/sb1rlDiZ",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/sb1rlDiZ/21-us-n1-cr%C3%A9er-tache",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "665561b629fa815d7a5202f6",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:46:46.027Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedlpfk6t0jjyin06+1f0ubhz4yk@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 22,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 Modifier tache",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665561b629fa815d7a5202f6",
+      "pos": 1441792,
+      "shortLink": "N3IpaV0o",
+      "shortUrl": "https://trello.com/c/N3IpaV0o",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/N3IpaV0o/22-us-n1-modifier-tache",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "665561c5268bf86f7fea099c",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:47:01.937Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jednbrxed16ja2qos+1cypvg9ios@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 23,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 supprimer tache",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665561c5268bf86f7fea099c",
+      "pos": 1507328,
+      "shortLink": "3msGzgbs",
+      "shortUrl": "https://trello.com/c/3msGzgbs",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/3msGzgbs/23-us-n1-supprimer-tache",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "665561ed56e709569fb103cd",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:47:41.609Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedro8e09z4tgeklp+0uu044i3i1@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 24,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 créer tache mentor",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665561ed56e709569fb103cd",
+      "pos": 1572864,
+      "shortLink": "68wfahvY",
+      "shortUrl": "https://trello.com/c/68wfahvY",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/68wfahvY/24-us-n1-cr%C3%A9er-tache-mentor",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "665561f8a42fea2393882ae8",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:47:52.017Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedsw8cgonc72usq0+0teux4l1kc@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 25,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 Modifier tache mentor",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/665561f8a42fea2393882ae8",
+      "pos": 1638400,
+      "shortLink": "6znmtOZP",
+      "shortUrl": "https://trello.com/c/6znmtOZP",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/6znmtOZP/25-us-n1-modifier-tache-mentor",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "66556203002e2692bbab7350",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-05-28T04:48:03.289Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "erikmesen+2zljk8nbgzlbf90g5hh+32jedu0k7et6xkjs9qo+25kxtc9sud@boards.trello.com",
+      "idBoard": "665560550e056551c5bb0022",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6655608ae30b5be67bf93cff",
+      "idMemberCreator": "639c81564b32cc01b73af3c5",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "idShort": 26,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Us n°1 supprimer tache mentor",
+      "nodeId": "ari:cloud:trello::card/workspace/639c81aabb21ab042c61aa62/66556203002e2692bbab7350",
+      "pos": 1703936,
+      "shortLink": "uLBRlCXb",
+      "shortUrl": "https://trello.com/c/uLBRlCXb",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/uLBRlCXb/26-us-n1-supprimer-tache-mentor",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    }
+  ],
+  "labels": [
+    {
+      "id": "665560551dc51400eb2f53c5",
+      "idBoard": "665560550e056551c5bb0022",
+      "name": "",
+      "color": "blue",
+      "uses": 0
+    },
+    {
+      "id": "665560551dc51400eb2f53cb",
+      "idBoard": "665560550e056551c5bb0022",
+      "name": "",
+      "color": "green",
+      "uses": 0
+    },
+    {
+      "id": "665560551dc51400eb2f53c3",
+      "idBoard": "665560550e056551c5bb0022",
+      "name": "",
+      "color": "orange",
+      "uses": 0
+    },
+    {
+      "id": "665560551dc51400eb2f53cf",
+      "idBoard": "665560550e056551c5bb0022",
+      "name": "",
+      "color": "purple",
+      "uses": 0
+    },
+    {
+      "id": "665560551dc51400eb2f53c6",
+      "idBoard": "665560550e056551c5bb0022",
+      "name": "",
+      "color": "red",
+      "uses": 0
+    },
+    {
+      "id": "665560551dc51400eb2f53cc",
+      "idBoard": "665560550e056551c5bb0022",
+      "name": "",
+      "color": "yellow",
+      "uses": 0
+    }
+  ],
+  "lists": [
+    {
+      "id": "665560831876d61d9dfff5a5",
+      "name": "Backlog",
+      "closed": false,
+      "color": null,
+      "idBoard": "665560550e056551c5bb0022",
+      "pos": 65536,
+      "subscribed": false,
+      "softLimit": null,
+      "creationMethod": null,
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/639c81aabb21ab042c61aa62/665560831876d61d9dfff5a5"
+    },
+    {
+      "id": "6655608ae30b5be67bf93cff",
+      "name": "Analyze",
+      "closed": false,
+      "color": null,
+      "idBoard": "665560550e056551c5bb0022",
+      "pos": 131072,
+      "subscribed": false,
+      "softLimit": null,
+      "creationMethod": null,
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/639c81aabb21ab042c61aa62/6655608ae30b5be67bf93cff"
+    },
+    {
+      "id": "6655608eac4409f4f02d9e34",
+      "name": "Develop",
+      "closed": false,
+      "color": null,
+      "idBoard": "665560550e056551c5bb0022",
+      "pos": 196608,
+      "subscribed": false,
+      "softLimit": null,
+      "creationMethod": null,
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/639c81aabb21ab042c61aa62/6655608eac4409f4f02d9e34"
+    },
+    {
+      "id": "665560900ff8cbe6c00428b0",
+      "name": "Test",
+      "closed": false,
+      "color": null,
+      "idBoard": "665560550e056551c5bb0022",
+      "pos": 262144,
+      "subscribed": false,
+      "softLimit": null,
+      "creationMethod": null,
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/639c81aabb21ab042c61aa62/665560900ff8cbe6c00428b0"
+    },
+    {
+      "id": "66556092d0526a850dd68d75",
+      "name": "Done",
+      "closed": false,
+      "color": null,
+      "idBoard": "665560550e056551c5bb0022",
+      "pos": 327680,
+      "subscribed": false,
+      "softLimit": null,
+      "creationMethod": null,
+      "idOrganization": "639c81aabb21ab042c61aa62",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/639c81aabb21ab042c61aa62/66556092d0526a850dd68d75"
+    }
+  ],
+  "members": [
+    {
+      "id": "639c81564b32cc01b73af3c5",
+      "aaId": "639c814f914b350865d2c163",
+      "activityBlocked": false,
+      "avatarHash": "8850275376b908c46d25d14383c3e965",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/639c81564b32cc01b73af3c5/8850275376b908c46d25d14383c3e965",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "Erik Mesen",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": [],
+      "idMemberReferrer": null,
+      "idPremOrgsAdmin": [],
+      "initials": "EM",
+      "memberType": "normal",
+      "nonPublic": {
+        "fullName": "Erik Mesen",
+        "initials": "EM",
+        "avatarHash": null
+      },
+      "nonPublicAvailable": true,
+      "products": [],
+      "url": "https://trello.com/erikmesen",
+      "username": "erikmesen",
+      "status": "disconnected"
+    }
+  ],
+  "checklists": [],
+  "customFields": [],
+  "memberships": [
+    {
+      "id": "665560550e056551c5bb002f",
+      "idMember": "639c81564b32cc01b73af3c5",
+      "memberType": "admin",
+      "unconfirmed": false,
+      "deactivated": false
+    }
+  ],
+  "pluginData": []
+}
