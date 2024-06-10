@@ -80,6 +80,8 @@ Un document est fourni avec la synthése des attentez clients, on y trouve la pr
 
 ## Ressources Projet
 
+Notes de réunion: https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn%40Home.pdf
+
 Maquette: https://www.figma.com/design/V9AMLexJKi15hqpcjRxRXi/Learn%40Home?node-id=0-1&t=GYaZAgGbppKWTsaV-0
 
 Kanban: https://trello.com/b/3UZpDmYT/learnhome
