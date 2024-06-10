@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: var(--font-default);
+}
+
+.anton-regular {
+  font-family: "Anton", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.manrope {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+:root {
+  --font-default: "Anton", Arial, Helvetica, sans-serif;
+  --font-filter: "Manrope", Arial, Helvetica, sans-serif;
+
+  --defaultBackgroundColor: img;
+  --defaultFontColor: black;
+  --primaryBgColor: white;
+  --primaryFontColor: black;
+  --secondaryBgColor: #3E1079;
+  --secondaryFontColor: white;
+  --tertiaryBgColor: #3c2a52;
+  --tertiaryFontColor: #da9999;
+  --buttonBgColor: #f45555;
+}
+
+#backgroundImg {
+    z-index: -1;
+    position: fixed;
+    width: 100%;
+}
+body {
+  background-color: var(--primaryBgColor);
+}
+main {
+  margin: 0 4rem;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+
+
+header {
+    background-color: var(--tertiaryBgColor) ;
+    height: 100px;
+}
+footer {
+    background-color: var(--tertiaryBgColor);
+    position: absolute;
+    bottom: 0;
+    padding: 20px;
+    color: #da9999;
+    display: flex;
+        align-items: center;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.logo{
+    border-radius: 10px;
+    position: relative;
+    left: 6%;
+    top: 45px;
+}
+
+.menu{
+       display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 250px;
+    color: white;
+    font-size: 24px;
+}
+
+.connecter{
+    background-color:var(--buttonBgColor);
+    padding: 20px;
+    width: 227px;
+    border-radius: 50px;
+    font-size: 16px;
+    color: white;
+    border: solid 3px #3E1079 ;
+    font-size: 24px;
+    top: 0;
+    position: absolute;
+    margin: 10px;
+}
+.title{
+    text-align: center;
+    font-size: 100px;
+    position: absolute;
+    top: 31%;
+    left: 42%;
+}
+
+.inscrire{
+    position: absolute;
+   left: 50%;
+   top: 50%;
+   padding: 20px;
+   border-radius: 50px;
+   width: 270px;
+   font-size: 40px;
+   background-color: #f45555;
+   border: solid 3px #3E1079;
+   color: white;
+}
