@@ -64,6 +64,8 @@ J’ai démarré le découpage dans ce kanban sur Notion, à toi de finir de com
 
 Un document est fourni avec la synthése des attentez clients, on y trouve la prise de notes et quelques croquis,. Il faudra fournir les maquettes pour desktop et mobile.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Built with
 
 <p></p>
@@ -72,15 +74,25 @@ Un document est fourni avec la synthése des attentez clients, on y trouve la pr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Fonctionnement -->
+<!--## Fonctionnement -->
 
-<!-- Liens Projet -->
+<!--## Liens Projet -->
+
+## Ressources Projet
+
+Maquette: https://www.figma.com/design/V9AMLexJKi15hqpcjRxRXi/Learn%40Home?node-id=0-1&t=GYaZAgGbppKWTsaV-0
+
+Kanban: https://trello.com/b/3UZpDmYT/learnhome
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Testez le projet
 
 Rien à installer ici, il suffit d'ouvrir le fichier `index.html`.
 
 Github: [https://erik-42.github.io/openclassroom-projet_10-learn-home/](https://erik-42.github.io/openclassroom-projet_10-learn-home/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Benchmark -->
 
